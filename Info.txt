@@ -1,0 +1,2 @@
+Hey this is algorithms site.
+All algorithms are written in Python.
